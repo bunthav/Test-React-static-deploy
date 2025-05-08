@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bunthav/Test-React-static-deploy.git/static/css/main.44d86c6a.css",
+    "main.js": "/bunthav/Test-React-static-deploy.git/static/js/main.6727d396.js",
+    "static/js/453.cc8f31e6.chunk.js": "/bunthav/Test-React-static-deploy.git/static/js/453.cc8f31e6.chunk.js",
+    "index.html": "/bunthav/Test-React-static-deploy.git/index.html",
+    "main.44d86c6a.css.map": "/bunthav/Test-React-static-deploy.git/static/css/main.44d86c6a.css.map",
+    "main.6727d396.js.map": "/bunthav/Test-React-static-deploy.git/static/js/main.6727d396.js.map",
+    "453.cc8f31e6.chunk.js.map": "/bunthav/Test-React-static-deploy.git/static/js/453.cc8f31e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d86c6a.css",
+    "static/js/main.6727d396.js"
+  ]
+}
