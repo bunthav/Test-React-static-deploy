@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thavstore/static/css/main.44d86c6a.css",
-    "main.js": "/thavstore/static/js/main.e56d3edf.js",
-    "static/js/453.cc8f31e6.chunk.js": "/thavstore/static/js/453.cc8f31e6.chunk.js",
-    "index.html": "/thavstore/index.html",
-    "main.44d86c6a.css.map": "/thavstore/static/css/main.44d86c6a.css.map",
-    "main.e56d3edf.js.map": "/thavstore/static/js/main.e56d3edf.js.map",
-    "453.cc8f31e6.chunk.js.map": "/thavstore/static/js/453.cc8f31e6.chunk.js.map"
+    "main.css": "/Test-React-static-deploy/static/css/main.44d86c6a.css",
+    "main.js": "/Test-React-static-deploy/static/js/main.d7da398f.js",
+    "static/js/453.cc8f31e6.chunk.js": "/Test-React-static-deploy/static/js/453.cc8f31e6.chunk.js",
+    "index.html": "/Test-React-static-deploy/index.html",
+    "main.44d86c6a.css.map": "/Test-React-static-deploy/static/css/main.44d86c6a.css.map",
+    "main.d7da398f.js.map": "/Test-React-static-deploy/static/js/main.d7da398f.js.map",
+    "453.cc8f31e6.chunk.js.map": "/Test-React-static-deploy/static/js/453.cc8f31e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44d86c6a.css",
-    "static/js/main.e56d3edf.js"
+    "static/js/main.d7da398f.js"
   ]
 }
